@@ -7,19 +7,9 @@ This repository contains a machine learning solution for predicting air quality 
 The dataset used for this project includes columns such as City, Date, PM2.5, PM10, NO, NO2, NOx, NH3, CO, SO2, O3, Benzene, Toluene, Xylene, AQI, and AQI_Bucket. The data is collected from various sources and provides a comprehensive view of air quality.
 
 
-## Results
-Performance Metrics
 
-Mean Absolute Error (MAE): 20.47
+Cross-validation R^2 scores: [0.9727501  0.97678441 0.97998063 0.97771337 0.97634234]
+Mean CV R^2 score: 0.9767
 
-Root Mean Squared Error (RMSE): 42.25
 
-R² Score: 0.88
-
-Mean Percentage Error: 14.23%
-
-Median Percentage Error: 8.41%
-
-Accuracy within 10% Error: 55.93% 
-
-Accuracy within 20% Error: 79.04%
+![image](https://github.com/user-attachments/assets/203fe952-86cb-4d1d-b11e-fa208058f0ed)
